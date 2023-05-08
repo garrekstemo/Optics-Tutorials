@@ -1,9 +1,8 @@
-# Lesson 1 — Basic Optical Elements and Beam Alignment
+# Lesson 1: Basic Optical Elements and Beam Alignment
 
 **Goals**
 1. Learn basic optics components (laser, mirrors, irises, posts, etc.)
 2. Basic mirror alignment using a red guide beam, two mirrors, and two irises.
-
 
 
 ## Mirrors
@@ -13,7 +12,7 @@
 - Handle the mirrors using a mirror mount as much as possible (not with your hands)
 
 ## Mirror holders
-- Use knobs to make tiny adjustments in z and y
+- Use knobs to make tiny adjustments in x and y
 
 ## Irises
 - Irises help align beam in correct direction at correct height
