@@ -1,4 +1,4 @@
-# Lesson 2: Intro to pulsed laser alignment and nonlinear optics
+# Lesson 3: Intro to pulsed laser alignment and nonlinear optics
 
 Use the 800 nm pulsed laser tutorial setup
 

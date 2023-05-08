@@ -1,4 +1,4 @@
-# Lesson 3: Using an oscilloscope
+# Lesson 2: Using an oscilloscope
 
 ## Functions of an oscilloscope
 
