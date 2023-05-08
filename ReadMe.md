@@ -22,7 +22,7 @@ and build setups from scratch. It is very important that the
 instructor let the students struggle with the problems
 on their own and not give answers right away.
 
-Just as in sports or music, students do drills that reinforce
+Just as in sports or music, drills are used to reinforce
 fundamental skills. Think shooting basketball free throws or
 playing scales on the piano. In optics, the fundamental skill
 is **laser alignment**. It starts easy with a small red laser,
