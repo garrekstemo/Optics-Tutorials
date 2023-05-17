@@ -20,9 +20,9 @@ Goals:
 1. Use spacers of three different thicknesses to demonstrate cavity fringes.
 2. Calculate the cavity spacing from the fringe spacing.
 3. Give each person a different solvent without telling them what they have. Have them try to figure out which solvent they have.
-    1. Water: 1.333 (2)
+    1. Water: 1.333
     2. Isopropanol: 1.377
-    3. Toluene: 1.497 (1)
+    3. Toluene: 1.497
 
 Use peak-finding software.
 
