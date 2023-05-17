@@ -4,7 +4,7 @@ Author: Garrek Stemo \
 [Nara Institute of Science and Technology](http://www.naist.jp/en/) \
 [Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp)
 Date Created: June 12, 2021 \
-Updated: May 8, 2023
+Updated: May 17, 2023
 
 ## Table of Contents
 
@@ -46,9 +46,4 @@ students must use a Fabry-Pérot etalon to calculate the material
 refractive index of the samples to determine what molecule
 they have.
 
-### A note on choice of programming language
-I teach with the Julia programming language and Visual Studio Code.
-Julia is fast, easy to learn, and has great packages for data analysis and visualization.
-It is quite similar to Python and MATLAB, so students can easily transfer skills to other languages.
-VS Code is the most popular editor, so is beneficial for students who continue coding after they graduate.
-Of course, future instructors may choose a different programming language or software to teach data analysis.
+The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials).

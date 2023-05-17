@@ -55,10 +55,10 @@ Each person collects their own data.
 2. Use the piezo stage to adjust the temporal delay between the two beams and capture the signal strength in the LabView program.
 3. Fit the data to a Gaussian curve to find the pulse width. Curve fitting is covered in a lesson on analysis and lab software.
 
-![](Images/SHG_above.jpeg)
-![](Images/SHG_back.jpeg)
-![](Images/SHG_front.jpeg)
-![](Images/SHG_side.jpeg)
-![](Images/SHG_side_close_up.jpeg)
+![](images/SHG_above.jpeg)
+![](images/SHG_back.jpeg)
+![](images/SHG_front.jpeg)
+![](images/SHG_side.jpeg)
+![](images/SHG_side_close_up.jpeg)
 ￼
 ￼
