@@ -11,7 +11,7 @@ Graphs a waveform of voltage changing in time. (Voltage axis & time axis)
 - Peak-to-peak
 - RMS voltage
 
-### Time & Frequency measurements (horizontal)
+### Time & frequency measurements (horizontal)
 - Period
 - Pulse width
 
@@ -23,7 +23,7 @@ Many functions to measure a waveform
 2. Horizontal: adjust the time base (time / division)
 3. Trigger: stabilize a repeating signal or trigger a single event
 
-### Vertical Controls
+### Vertical controls
 
 * **Position**: move waveform up and down on the screen. Volts-per-division changes waveform size and vertical step divisions on the screen.
 * **Coupling**: DC, AC, ground. How to connect an electrical signal between circuits. Input coupling is the connection from the circuit to the oscilloscope. 
@@ -38,7 +38,7 @@ Many functions to measure a waveform
 * Invert
 * Scale
 
-### Horizontal Controls
+### Horizontal controls
 
 * **Acquisition**
 * **Sampling**: converting part of an input signal into discrete electrical values.
