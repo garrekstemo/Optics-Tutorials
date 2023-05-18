@@ -1,4 +1,4 @@
-# Lesson 4: Etalon fringes and FTIR
+# Lesson 5: Etalon fringes and FTIR
 
 Goals:
 1. Use new equipment
