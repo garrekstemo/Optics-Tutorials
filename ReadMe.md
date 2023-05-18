@@ -15,8 +15,9 @@ Lesson 4: [Finding the Pump-Probe Overlap in a MIR Optical Setup](lesson-4-pump-
 Lesson 5: [Etalon fringes and FTIR](lesson-5-etalons-and-FTIR) \
 [Bonus Lesson](bonus-lesson)
 
-## Lesson flow
+## Introduction
 
+The documents here are for the instructor.
 These four lessons are a rapid introduction to the fundamental 
 optics and equipment used in an optics laboratory.
 Each lesson is to be completed in about one week.
@@ -49,7 +50,8 @@ they have.
 
 ## Data analysis and programming in Julia
 
-The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials).
+The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials)
+and are to be given to students when they begin analysis.
 
 After students complete an experiment lesson, they will analyze their results using Julia.
 It is important not only for students to develop skills in data analysis, but also to learn basic programming skills.
