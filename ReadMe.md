@@ -26,6 +26,9 @@ and build setups from scratch. It is very important that the
 instructor let the students struggle with the problems
 on their own and not give answers right away.
 
+There are essentially two tracks: using a self-contained spectrometer (FTIR) and an open optics setup.
+If there are enough students, you can make two groups and put them on different tracks and then switch.
+
 Just as in sports or music, drills are used to reinforce
 fundamental skills. Think shooting basketball free throws or
 playing scales on the piano. In optics, the fundamental skill
