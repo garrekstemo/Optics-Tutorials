@@ -8,3 +8,4 @@ Thorlabs
 - [Use Laser Speckle to Find the Beam Focus](https://youtu.be/xuzuFPl8rh0)
 - [Align a Linear Polarizer's Axis to be Vertical or Horizontal to the Table](https://youtu.be/W9pALZ5Z8ms)
 - [Align a Linear Polarizer 45° to the Plane of Incidence](https://youtu.be/cqLPD5dL9zY)
+- [Distinguish the Fast and Slow Axes of a Quarter-Wave Plate](https://youtu.be/XQwiPm5OtSk)
