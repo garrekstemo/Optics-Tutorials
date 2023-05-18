@@ -47,4 +47,14 @@ students must use a Fabry-Pérot etalon to calculate the material
 refractive index of the samples to determine what molecule
 they have.
 
+## Data analysis and programming in Julia
+
 The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials).
+
+After students complete an experiment lesson, they will analyze their results using Julia.
+It is important not only for students to develop skills in data analysis, but also to learn basic programming skills.
+This includes of course the basics like loops, conditionals, functions, etc.
+This also includes good pragramming practices and using standard practices for the language, Julia in this case.
+Make sure you review the [Julia manual](https://docs.julialang.org/en/v1/) to make sure that you are familiar with best practices
+and ask questions on the [Julia Discourse](https://discourse.julialang.org) forum if you are unsure of something.
+The Julia community (as are many open source programming communities, generally) friendly and open to newcomers.
