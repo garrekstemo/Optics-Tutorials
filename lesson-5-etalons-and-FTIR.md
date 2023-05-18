@@ -8,7 +8,7 @@ Goals:
 5. Measure the Rabi splitting in a neat liquid and in a diluted liquid
 
 
-## Part B: Measure fringes
+## Part A: Measure fringes
 
 1. Use spacers of three different thicknesses to demonstrate cavity fringes.
 2. Calculate the cavity spacing from the fringe spacing.
@@ -20,7 +20,7 @@ Goals:
 Use peak-finding software.
 
 
-## Part C: Measure Rabi splitting
+## Part B: Measure Rabi splitting
 
 1. Use DPPA to measure Rabi splitting
     1. Neat
