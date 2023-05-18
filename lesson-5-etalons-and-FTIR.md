@@ -31,11 +31,11 @@ Fit with a double-Lorentzian function
 
 ## Questions
 
-Why is the cavity length different than the spacer thickness?
-What do you think contributes to the real cavity length?
-Why do you think the refractive index is different from the actual value?
-What are the sources of error?
-What are the cavity modes, physically?
-Why does the spacing change with cavity length or refractive index?
+1. Why is the cavity length different than the spacer thickness?
+2. What do you think contributes to the real cavity length?
+3. Why do you think the refractive index is different from the actual value?
+4. What are the sources of error?
+5. What are the cavity modes, physically?
+6. Why does the spacing change with cavity length or refractive index?
 
 error: take apart cavity and put it back together.
