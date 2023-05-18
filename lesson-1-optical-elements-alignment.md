@@ -31,6 +31,18 @@
 - Put Mirror 1 and Mirror 2 close together so we have maximum range of motion for the beam.
 - Make the irises as far apart as possible for easier and more precise alignment
 
+## Focusing optics
+- Parabolic mirrors
+- Lenses
+
+## Activities
+
+These activities are to be completed without instructor supervision and may be done in pairs.
+Students will practice techniques and then the instructor should check progress after a couple of days and give advice and encouragement.
+
+1. Align a red laser onto a target card with two mirrors and two irises.
+2. Focus a red laser beam through a sample (liquid crystal? pinhole?) and recollimate it into a detector connected to an oscilloscope. (can be done with lenses or parabolic mirrors)
+3. 
 
 ## Aligning higher powered beams
 
