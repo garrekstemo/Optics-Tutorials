@@ -8,13 +8,6 @@ Goals:
 5. Measure the Rabi splitting in a neat liquid and in a diluted liquid
 
 
-## Part A: Fabricate mirrors (may not be necessary, depending on instrument availability)
-
-1. Explain how to use the Au-sputter machine and each person makes a set of mirrors.
-2. Explain where to store experiment samples and parts.
-3. Explain the basics of the FTIR spectrometer and the software.
-
-
 ## Part B: Measure fringes
 
 1. Use spacers of three different thicknesses to demonstrate cavity fringes.
