@@ -2,6 +2,7 @@
 
 Thorlabs
 - [How to align a laser](https://youtu.be/qzxILY6nOmA)
+- [Build a Polarimeter to Find Stokes Values, Polarization State ](https://www.youtube.com/watch?v=pR4r7gMyN5U)
 - [Mounting Your Optomech: Bases, Post Holders, and Posts](https://youtu.be/4xZmGyMsQNo)
 - [Use Laser Speckle to Find the Beam Focus](https://youtu.be/xuzuFPl8rh0)
 - [Align an Off-Axis Parabolic (OAP) Mirror to Collimate a Beam](https://youtu.be/l8v8RyCi4HU)
