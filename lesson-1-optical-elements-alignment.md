@@ -1,7 +1,7 @@
 # Lesson 1: Basic Optical Elements and Beam Alignment
 
 **Goals**
-1. Learn basic optics components (laser, mirrors, irises, posts, etc.)
+1. Learn basic optics components (laser, mirrors, irises, posts, etc.) [Mounting Your Optomech: Bases, Post Holders, and Posts](https://youtu.be/4xZmGyMsQNo)
 2. Basic mirror alignment using a red guide beam, two mirrors, and two irises.
 
 ## Optical components
@@ -37,9 +37,9 @@
 These activities are to be completed without instructor supervision and may be done in pairs.
 Students will practice techniques and then the instructor should check progress after a couple of days and give advice and encouragement.
 
-1. Align a red laser onto a target card with two mirrors and two irises.
-2. Focus a red laser beam through a sample (liquid crystal? pinhole?) and recollimate it into a detector connected to an oscilloscope. (can be done with lenses or parabolic mirrors)
-3. 
+1. Align a red laser onto a target card with two mirrors and two irises. [How to align a laser](https://youtu.be/qzxILY6nOmA)
+2. Focus a red laser beam through a sample (liquid crystal? pinhole?) and recollimate it into a detector connected to an oscilloscope. (can be done with lenses or parabolic mirrors) [Align an Off-Axis Parabolic (OAP) Mirror to Collimate a Beam](https://www.youtube.com/watch?v=pR4r7gMyN5U)
+4. Find Stokes parameters to characterize the polarization of a beam. ([Build a Polarimeter to Find Stokes Values, Polarization State](https://www.youtube.com/watch?v=pR4r7gMyN5U)
 
 ### Basic alignment (activity 1)
 - Put Mirror 1 close to the laser to limit beam divergence.
