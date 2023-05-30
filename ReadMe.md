@@ -15,8 +15,9 @@ Lesson 4: [Finding the Pump-Probe Overlap in a MIR Optical Setup](lesson-4-pump-
 Lesson 5: [Etalon fringes and FTIR](lesson-5-etalons-and-FTIR) \
 [Bonus Lesson](bonus-lesson)
 
-## Lesson flow
+## Introduction
 
+The documents here are for the instructor.
 These five lessons are a rapid introduction to the fundamental 
 optics and equipment used in an optics laboratory.
 Each lesson is to be completed in about one week.
@@ -24,6 +25,9 @@ Students are encouraged to work together to solve problems
 and build setups from scratch. It is very important that the 
 instructor let the students struggle with the problems
 on their own and not give answers right away.
+
+There are essentially two tracks: using a self-contained spectrometer (FTIR) and an open optics setup.
+If there are enough students, you can make two groups and put them on different tracks and then switch.
 
 Just as in sports or music, drills are used to reinforce
 fundamental skills. Think shooting basketball free throws or
@@ -54,7 +58,19 @@ Lesson 1 must be done for everyone before moving on.
 An introduction to data analysis should be done in conjunction
 with the pulsed laser and FTIR tutorials.
 
-The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials).
+## Data analysis and programming in Julia
+
+The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials)
+and are to be given to students when they begin analysis.
+
+After students complete an experiment lesson, they will analyze their results using Julia.
+It is important not only for students to develop skills in data analysis, but also to learn basic programming skills.
+This includes of course the basics like loops, conditionals, functions, etc.
+This also includes good pragramming practices and using standard practices for the language, Julia in this case.
+Make sure you review the [Julia manual](https://docs.julialang.org/en/v1/) to make sure that you are familiar with best practices
+and ask questions on the [Julia Discourse](https://discourse.julialang.org) forum if you are unsure of something.
+The Julia community (as are many open source programming communities, generally) friendly and open to newcomers.
+
 
 ## Make a PDF
 
