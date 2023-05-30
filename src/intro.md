@@ -1,0 +1,48 @@
+# Optics Tutorials for the Quantum Photo-Science Laboratory at NAIST
+
+Author: Garrek Stemo \
+[Nara Institute of Science and Technology](http://www.naist.jp/en/) \
+[Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
+Date Created: June 12, 2021
+
+
+## Lesson flow
+
+These five lessons are a rapid introduction to the fundamental 
+optics and equipment used in an optics laboratory.
+Each lesson is to be completed in about one week.
+Students are encouraged to work together to solve problems
+and build setups from scratch. It is very important that the 
+instructor let the students struggle with the problems
+on their own and not give answers right away.
+
+Just as in sports or music, drills are used to reinforce
+fundamental skills. Think shooting basketball free throws or
+playing scales on the piano. In optics, the fundamental skill
+is **laser alignment**. It starts easy with a small red laser,
+a couple of mirrors, a couple of irises, and a target.
+Lessons progress to include more complex optical components,
+including nonlinear crystals. The ultimate goal is to be
+able to understand and work with pulsed lasers.
+The nonlinear aspect of pulsed lasers opens up totally new phenomena with different optical components. 
+This hardest tutorial has students find the laser pulse 
+width using cross correlation via second harmonic generation (SHG) using a nonlinear crystal.
+The instructor should discuss nonlinear theory.
+
+The linear spectroscopy tutorial is experimentally simple, but introduces
+data analysis and fitting techniqes using data collected 
+with an FTIR. Here, the instructor provides a set of 
+clear liquid samples. The students do not know 
+what the molecules are (but are labeled with numbers), and 
+students must use a Fabry-Pérot etalon to calculate the material
+refractive index of the samples to determine what molecule
+they have.
+
+For larger groups students may be separated into separate tracks, 
+where one group does the pulsed laser tutorial first
+and linear spectroscopy second, while the other group does these tutorials in reverse order.
+Lesson 1 must be done for everyone before moving on.
+An introduction to data analysis should be done in conjunction
+with the pulsed laser and FTIR tutorials.
+
+The data analysis portion of these tutorials are in [a separate GitHub repository](https://github.com/garrekstemo/Julia-spectroscopy-tutorials).
