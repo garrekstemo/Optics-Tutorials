@@ -4,16 +4,15 @@ Author: Garrek Stemo \
 [Nara Institute of Science and Technology](http://www.naist.jp/en/) \
 [Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
 Date Created: June 12, 2021 \
-Updated: May 17, 2023
+Updated: May 30, 2023
 
 ## Table of Contents
 
-Lesson 1: [Introduction to Optical Elements and Alignment](lesson-1-optical-elements-alignment) \
-Lesson 2: [Using an Oscilloscope](lesson-2-oscilloscopes) \
-Lesson 3: [Introduction to Pulsed Laser Alignment and Nonlinear Optics](lesson-3-nonlinear-optics) \
-Lesson 4: [Finding the Pump-Probe Overlap in a MIR Optical Setup](lesson-4-pump-probe) \
-Lesson 5: [Etalon fringes and FTIR](lesson-5-etalons-and-FTIR) \
-[Bonus Lesson](bonus-lesson)
+Lesson 1: Introduction to Optical Elements and Alignment \
+Lesson 2: Using an Oscilloscope \
+Lesson 3: Introduction to Pulsed Laser Alignment and Nonlinear Optics \
+Lesson 4: Finding the Pump-Probe Overlap in a MIR Optical Setup \
+Lesson 5: Etalon fringes and FTIR
 
 ## Introduction
 
