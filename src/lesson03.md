@@ -15,8 +15,8 @@ Quiz on basic optics components from last week.
     - Nonlinear susceptibility
     - Properties of Beta Barium Borate
         - high damage threshold
-        - Band edges at 0.19 - 3.3 um
-        - Useful range 0.21 - 2.1 um
+        - Band edges at 0.19 - 3.3 μm
+        - Useful range 0.21 - 2.1 μm
         - Efficient for SHG
         - Narrow angular acceptance bandwidth
     - Second harmonic generation
@@ -60,5 +60,3 @@ Each person collects their own data.
 ![](../images/SHG_front.jpeg)
 ![](../images/SHG_side.jpeg)
 ![](../images/SHG_side_close_up.jpeg)
-￼
-￼
