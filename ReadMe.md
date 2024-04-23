@@ -4,7 +4,7 @@ Author: Garrek Stemo \
 [Nara Institute of Science and Technology](http://www.naist.jp/en/) \
 [Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
 Date Created: June 12, 2021 \
-Updated: May 30, 2023
+Updated: April 23, 2024
 
 ## Table of Contents
 
@@ -56,6 +56,7 @@ and linear spectroscopy second, while the other group does these tutorials in re
 Lesson 1 must be done for everyone before moving on.
 An introduction to data analysis should be done in conjunction
 with the pulsed laser and FTIR tutorials.
+
 
 ## Data analysis and programming in Julia
 
