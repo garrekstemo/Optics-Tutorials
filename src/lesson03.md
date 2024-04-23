@@ -1,6 +1,12 @@
 # Lesson 3: Intro to pulsed laser alignment and nonlinear optics
 
-Use the 800 nm pulsed laser tutorial setup
+Use the 800 nm pulsed laser tutorial setup to introduce students to the new optical components and instruments.
+
+## Goals
+1. Review basic optical components
+2. Use new optical components
+3. Learn nonlinear optics concepts
+4. Measure the pulse width of a femtosecond laser via autocorrelation
 
 ## Review and introduction to new optical components
 
