@@ -1,7 +1,8 @@
 # Lesson 5: Etalon fringes and FTIR
 
-Goals:
-1. Use new equipment
+## Goals
+
+1. Learn how to use an FTIR, including the basic functions and how to measure a spectrum
 2. Make an etalon
 3. Measure the distance between two mirrors
 4. Measure the refractive index of a material inserted between the mirrors
@@ -22,11 +23,11 @@ Use peak-finding software.
 
 ## Part B: Measure Rabi splitting
 
-1. Use DPPA to measure Rabi splitting
+1. Use an IR-active liquid sample to measure Rabi splitting
     1. Neat
-    2. Diluted in toluene
+    2. Diluted
 
-Fit with a double-Lorentzian function
+2. Fit with a double-Lorentzian function
 
 
 ## Questions
