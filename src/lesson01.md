@@ -2,7 +2,7 @@
 
 ## Goals
 
-1. Learn basic opticomechanical components (laser, mirrors, irises, posts, etc.)
+1. Learn basic optomechanical components (laser, mirrors, irises, posts, etc.)
 3. Basic mirror alignment using a red guide beam, two mirrors, and two irises
 
 ## Mirrors
