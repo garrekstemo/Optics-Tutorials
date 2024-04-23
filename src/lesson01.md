@@ -2,9 +2,8 @@
 
 ## Goals
 
-1. Learn basic optics components (laser, mirrors, irises, posts, etc.)
-2. Basic mirror alignment using a red guide beam, two mirrors, and two irises
-
+1. Learn basic opticomechanical components (laser, mirrors, irises, posts, etc.)
+3. Basic mirror alignment using a red guide beam, two mirrors, and two irises
 
 ## Mirrors
 - Beam should hit close to the center (so there is room for adjustment later)
@@ -13,7 +12,7 @@
 - Handle the mirrors using a mirror mount as much as possible (not with your hands)
 
 ## Mirror holders
-- Use knobs to make tiny adjustments in x and y
+- Use knobs to make small adjustments in x and y
 
 ## Irises
 - Irises help align beam in correct direction at correct height
