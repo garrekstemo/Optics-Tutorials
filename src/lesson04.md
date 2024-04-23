@@ -1,6 +1,7 @@
 # Lesson 5: Find the Pump-Probe Overlap in a MIR Optics Setup
 
-Goals:
+## Goals
+
 1. Learn how to align an invisible beam
 2. New optical components for MIR beams
 3. Learn about transient spectroscopy
@@ -13,16 +14,13 @@ observing the nonlinear signal.
 If the student will be doing MIR pump-probe
 experiments, a sample with a shorter lifetime should also be used to observe the molecular dynamics and kinetics to understand nonlinear properties of molecules (such as anharmonicity).
 
-## New optics
+## New optics and instruments
 
 - Difference Frequency Generation (DFG) crystal
 - MIR filters, waveplates, polarizers
 - Mechanical chopper
 - Delay stage
-  
-
-## New instruments
-
+- Pinhole
 - Spectrometer
   - MCT detector
   - Grating
@@ -33,4 +31,4 @@ experiments, a sample with a shorter lifetime should also be used to observe the
 1. Generate and maximize the MIR beam
 2. Align the path using the red diode laser and pinhole
 3. Align the MIR pump and probe beams through the pinhole
-4. Use the germanium crystal to find and maximize the nonlinaer signal with the spectrometer
+4. Use the germanium crystal to find and maximize the nonlinaer signal with the spectrometer (can be done with the chopper on or off)
