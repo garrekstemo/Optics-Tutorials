@@ -1,5 +1,13 @@
 # Lesson 2: Using an oscilloscope
 
+This lesson should be completed before measuring the SHG signal in the nonlinear optics lesson.
+Make sure to give students the resources linked below so they can learn on their own.
+
+## Goals
+1. Understand the basic functions of an oscilloscope
+2. Learn how to measure voltage and time using an oscilloscope
+3. Learn how to trigger a signal on an oscilloscope
+
 ## Functions of an oscilloscope
 
 Graphs a waveform of voltage changing in time. (Voltage axis & time axis)
