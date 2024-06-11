@@ -1,13 +1,6 @@
-# Optics Tutorials for the Quantum Photo-Science Laboratory at NAIST
-
-Author: Garrek Stemo \
-[Nara Institute of Science and Technology](http://www.naist.jp/en/) \
-[Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
-Date Created: June 12, 2021
-
+# Optics Tutorials for the Quantum Photo-Science Laboratory
 
 ## Introduction
-
 The documents here are for the instructor.
 These five lessons are a rapid introduction to the fundamental 
 optics and equipment used in an optics laboratory.

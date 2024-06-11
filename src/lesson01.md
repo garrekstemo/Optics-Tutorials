@@ -1,7 +1,8 @@
 # Lesson 1: Basic Optical Elements and Beam Alignment
 
 Lesson 1 introduces students to basic optical elements and alignment techniques.
-It is divided into two parts: the first part covers basic optical elements, alignment, and safety.
+It is divided into two parts.
+The first part covers basic optical elements, alignment, and safety.
 The second part is an experiment to measure the pit width of a CD and DVD.
 
 Remember that tutorials are not lectures but interactive sessions
@@ -12,7 +13,6 @@ They are also encouraged to handle the optical elements and align the beam thems
 ## Part 1: Introduction to Optical Elements and Alignment
 
 ### Goals
-
 1. Learn basic optomechanical components (laser, mirrors, irises, posts, etc.)
 2. Basic mirror alignment using a laser diode, two mirrors, and two irises
 3. Basic laser safety
@@ -26,9 +26,9 @@ This tutorial is to be completed in five days. Results are presented the followi
 - Days 3-4: Optical disk pit width experiment
 - Day 5: Review progress
 
-The first lesson is laser safety and practicing aligning using two mirrors and two irises.
-Then demonstrate how to align the beam using the red laser.
-Ask them to try aligning the beam in different ways.
+The first lesson is laser safety and practicing alignment using two mirrors and two irises.
+Next demonstrate how to align the beam using the red diode laser.
+Ask students to try aligning the beam in different ways.
 Make it interactive by having them handle the optics and regularly asking questions to check understanding.
 Let students *play* with the optics (keeping safety in mind) so they get a feel for how they work.
 
@@ -39,14 +39,13 @@ Let students *play* with the optics (keeping safety in mind) so they get a feel 
 - Bending the path at 90° makes it easier to follow the beam path.
 
 ### Questions to ask students
-What happens if the irises are close together? (try it!)
-What happens if the mirrors are far from the laser source?
-What if the mirrors cannot be adjusted to go through both irises?
-What do you need to align the beam along a straight path?
+- What happens if the irises are close together? (try it!)
+- What happens if the mirrors are far from the laser source?
+- What if the mirrors cannot be adjusted to go through both irises?
+- What do you need to align the beam along a straight path?
 
 
 ### Laser Safety (basics)
-
 Cover the basics of laser safety first.
 Students will take a full laser safety course from the university, but here we emphasize the basics:
 
@@ -63,11 +62,10 @@ Students will take a full laser safety course from the university, but here we e
 - The beam should be parallel to the table surface
 
 Demonstrate the laser card and how to use it to find the beam.
-Also demonstrate how improper beam blocking can lead to a beam approaching eye level.
+Also demonstrate how improper beam blocking can lead to the beam escaping the table and potentially endangering others.
 
 
 ### Optical elements
-
 The following optical elements should be introduced:
 - Mirror
 - Mirror mount
@@ -115,12 +113,6 @@ Cover the following details for each element:
 4. Have students calculate the pit width using the formula for the diffraction limit
 5. Have students present their results
 
-#### Notes
-- CD pit width: 1.6 μm
-- DVD pit width: 0.74 μm
-- Literature values may differ slightly
-
-
 ### Review
 - What is the purpose of the irises?
 - What safety precautions must you take when working with a laser?
@@ -129,15 +121,12 @@ Cover the following details for each element:
 - We have a red and green laser. What are their wavelengths? (633 nm, 533 nm)
 
 ### Experiment description
-
 Write a schematic of the optical setup on the board.
 List the components used in the experiment.
 They must describe the setup in their presentation.
 When helping the students, drop hints to help them figure out the setup and understand sources of experimental error.
 
-
 ### Questions to ask students
-
 - How does the pit width change with the wavelength of the laser?
 - How does reading a CD or DVD work?
 - When the beam hits a pit, what happens?
@@ -171,5 +160,11 @@ $$\sin\theta_{i}=\frac{x^2}{\sqrt{x^2+y_{i}^2}}$$
 $$\sin\theta_{0}=\frac{x^2}{\sqrt{x^2+y_{0}^2}}$$
 
 Assume $\theta_0 \approx 0$ for this tutorial.
+
+#### Notes
+- CD pit width: 1.6 μm
+- DVD pit width: 0.74 μm
+- Literature values may differ slightly
+
 
 ![](../images/lesson01_track_pitch.jpg)
