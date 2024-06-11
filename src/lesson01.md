@@ -166,8 +166,9 @@ $$m\lambda = d(\sin\theta_{i}-\sin\theta_{0})$$
 where $m$ is the order of the diffraction, $\lambda$ is the wavelength of the laser, $d$ is the pit width, $\theta_{i}$ is the angle of the $i$th order diffraction, and $\theta_{0}$ is the angle of the zeroth order diffraction.
 Angles $\theta_{i}$ and $\theta_{0}$ are related to the x and y coordinates of the beam:
 
-$$\sin\theta_{i}=\frac{x^2}{\sqrt{x^2+y_{i}^2}} \\
-\sin\theta_{0}=\frac{x^2}{\sqrt{x^2+y_{0}^2}}$$
+$$\sin\theta_{i}=\frac{x^2}{\sqrt{x^2+y_{i}^2}}$$
+
+$$\sin\theta_{0}=\frac{x^2}{\sqrt{x^2+y_{0}^2}}$$
 
 Assume $\theta_0 \approx 0$ for this tutorial.
 
