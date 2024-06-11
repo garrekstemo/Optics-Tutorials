@@ -31,7 +31,7 @@ Just as in sports or music, drills are used to reinforce
 fundamental skills. Think shooting basketball free throws or
 playing scales on the piano. In optics, the fundamental skill
 is **laser alignment**. It starts easy with a small red laser,
-a couple of mirrors, a couple of irises, and a target.
+a couple of mirrors, and a couple of irises.
 Lessons progress to include more complex optical components,
 including nonlinear crystals. The ultimate goal is to be
 able to understand and work with pulsed lasers.
