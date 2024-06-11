@@ -18,15 +18,15 @@ Quiz on basic optics components from last week.
 - Lens tube / beam path cover
 - Focusing lens and mirror
 - Nonlinear crystal
-    - Nonlinear susceptibility
-    - Properties of Beta Barium Borate
-        - high damage threshold
-        - Band edges at 0.19 - 3.3 μm
-        - Useful range 0.21 - 2.1 μm
-        - Efficient for SHG
-        - Narrow angular acceptance bandwidth
-    - Second harmonic generation
-        - Depends on second-order susceptibility and square of the electric field
+	- Nonlinear susceptibility
+	- Properties of Beta Barium Borate
+		- high damage threshold
+		- Band edges at 0.19 - 3.3 μm
+		- Useful range 0.21 - 2.1 μm
+		- Efficient for SHG
+		- Narrow angular acceptance bandwidth
+	- Second harmonic generation
+		- Depends on second-order susceptibility and square of the electric field
 
 ### New instruments
 - Camera (sensor and lens module)
@@ -61,8 +61,14 @@ Each person collects their own data.
 2. Use the piezo stage to adjust the temporal delay between the two beams and capture the signal strength in the LabView program.
 3. Fit the data to a Gaussian curve to find the pulse width. Curve fitting is covered in a lesson on analysis and lab software.
 
-![](../images/SHG_above.jpeg)
-![](../images/SHG_back.jpeg)
-![](../images/SHG_front.jpeg)
-![](../images/SHG_side.jpeg)
-![](../images/SHG_side_close_up.jpeg)
+![][image-1]
+![][image-2]
+![][image-3]
+![][image-4]
+![][image-5]
+
+[image-1]:	../images/SHG_above.jpeg
+[image-2]:	../images/SHG_back.jpeg
+[image-3]:	../images/SHG_front.jpeg
+[image-4]:	../images/SHG_side.jpeg
+[image-5]:	../images/SHG_side_close_up.jpeg
