@@ -6,7 +6,7 @@
 
 
 ## About this article
-This article shows the detail flow and contents of Lesson 5.\
+This article shows the detailed flow and contents of Lesson 5.\
 The purpose of this article is to make it easy to redo this tutorial in the future.\
 Therefore, the following part shows the step-by-step guide to do this lesson.
 
@@ -108,7 +108,7 @@ Check the following source if they find it hard to obtain the information.
 #### 3-3. Make a folder structure for this lecture.
 - Make a folder for this tutorial.
 - Make a data, output, src folder inside this folder.
-- The code that was used in 2024 is [here]().
+- The code that was used in 2024 is [here](https://github.com/Nishiuchi21/Tutorial_for_new_students_2024__code_for_FTIR_data).
 
 #### 3-4. Review how to make a plot from arrays.
 - Make fake data (arrays with the same length).
