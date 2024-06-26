@@ -51,7 +51,7 @@ Therefore, the following part shows the step-by-step guide to do this lesson.
 - Explain how the refractive index can also change the spectrum.
 
 #### 1-5. Exlpain about the activity they are going to do.
-- **Activity**: Deduce the refractive index of an 2 unknown molecules using the cavity.\
+- **Activity**: Deduce the refractive index of 2 unknown molecules using the cavity.\
 (Molecules: Methanol with n ≃ 1.32, Toluene with n ≃ 1.47)
 - **Steps**:
     1. Show how to strat the FTIR and the apps.
@@ -82,7 +82,7 @@ Therefore, the following part shows the step-by-step guide to do this lesson.
 (Theory that explains the relationship between the the transmittance and cavity length/refractive index.)
 
 #### 2-3. Help the students if they find it hard to collect the information.
-- Some information such as the theory of the cavity is hard sometimes.\
+- Some information such as the theory of the cavity is hard to find sometimes.\
 Check the following source if they find it hard to obtain the information.
 
 - [How the FTIR works (Japanese)](https://www.hongo-m.co.jp/2014/01/30/%E3%82%84%E3%81%95%E3%81%97%E3%81%84ft-ir%E3%81%AE%E5%8E%9F%E7%90%86-2-%E5%85%89%E3%81%AE%E5%B9%B2%E6%B8%89-%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A7%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0-%E3%83%95%E3%83%BC%E3%83%AA%E3%82%A8%E5%A4%89%E6%8F%9B%E3%81%8A%E3%82%88%E3%81%B3%E3%82%B7%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%93%E3%83%BC%E3%83%A0/)
