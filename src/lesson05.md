@@ -1,5 +1,5 @@
 # Lesson 5: Etalon fringes and FTIR
-
+\
 **Author**: Garrek Stemo, Joel Nishiuchi\
 **Updated by**: Joel Nishiuchi\
 **Updated Date**: 26, June, 2024
@@ -26,10 +26,45 @@ Therefore, the following part shows the step-by-step guide to do this lesson.
 (**Reason**: Necessary to understand polaritons.)
 - Learn how to use the FTIR and how to prepare samples.
 - Learn how to analyze data using programming with Julia.
+- (**sub-goals:** no need to explain) Learn how to use books and the Internet to collect information.
+- (**sub-goals:** no need to explain) Learn how to present experimental results in meetings.
 
-<span style="color: red; ">Hidden Goals(not explained)</span>
-- Learn how to use books and the Internet to collect information.
-- Learn how to present experimental results in meetings.
+#### 1-3. Explain about molecular vibrations. (start lecture)
+- A molecular vibrational excitation is coupled with a cavity mode to create vibrational polaritons.\
+(Therefore, understanding molecular vibrations is important for our research.)
+- Explain what molecules consist of.
+- Explain what molecular motions are considered to explain molecular vibrations.
+- Explain how molecular vibrations can be described using harmonic oscillators.
+- Explain how molecular vibrations have characteristic vibrations (using the ruler).
+- Explain how molecular vibrations can be excited using MIR light.
+- Demostrate excitations(absorptions) using the FTIR. (prepare two samples: H2O, D2O, etc.)
+- Exlpain how and why the two molecules show different absorptions.
+
+#### 1-4. Explain about cavity modes.
+- Explain what a Fabry-Pérot cavity consists of.
+- Demonstrate what happenes when light is irradiated from one side using the FTIR and a gold cavity.
+- Explain what is happening inside the cavity on wavenubers that cavity modes appear using [this simulation](https://ccahilla.github.io/fabryperot.html).
+- Explain about standing waves.
+- Explain what happens when light is not irradiating to the cavity any more.\
+(Explain about the vacuum field)
+- Let the students change the caivty length and demonstrate how it can change the spectrum.
+- Explain how the refractive index can also change the spectrum.
+
+#### 1-5. Exlpain about the activity they are going to do.
+- **Activity**: Deduce the refractive index of an 2 unknown molecules using the cavity.\
+(Molecules: Methanol with n ≃ 1.32, Toluene with n ≃ 1.47)
+- **Steps**:
+    1. Show how to strat the FTIR and the apps.
+    2. Show how to take a background and a measurement.
+    3. Explain about cells, spacers, CaF2 plates, gold mirrors, etc.
+    4. Make liquid + CaF2 cells, empty gold cavities, liquid + gold cavity.
+    5. Measure their spectra (%T or Abs) using the FTIR.
+    6. Show how to save data.
+    7. Disassemble cells and cavities.
+    8. Show how to clean these tools.
+    9. Show how to tur off the FTIR.
+    10. Extract data using a USB.
+
 
 
 ### Day 2: Searching Information
