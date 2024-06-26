@@ -1,5 +1,48 @@
 # Lesson 5: Etalon fringes and FTIR
 
+**Author**: Garrek Stemo, Joel Nishiuchi\
+**Updated by**: Joel Nishiuchi\
+**Updated Date**: 26, June, 2024
+
+
+## About this article
+This article shows the detail flow and contents of Lesson 5.\
+The purpose of this article is to make it easy to redo this tutorial in the future.\
+Therefore, the following part shows the step-by-step guide to do this lesson.
+
+ 
+
+## Step-by-step guide
+### Day 1: Experiment
+#### 1-1. Explain to the students how you want the lesson to be done.
+- The students and the lecturer need to ask to each other as many questions as possible.\
+(**Reason**: To get used to ask and to be asked questions about research.)
+
+- Only the basic will be covered in this lesson. The students need to find more accurate and reliable information on their own and avoid using the information given in this lesson directly to research.\
+(**Reason**: Oversimplification is used in some parts of this lecture.)
+
+#### 1-2. Explain the purpose of this lesson.
+- Understand the basics of Fabry-Pérot cavities and molecular vibrations.\
+(**Reason**: Necessary to understand polaritons.)
+- Learn how to use the FTIR and how to prepare samples.
+- Learn how to analyze data using programming with Julia.
+
+<span style="color: red; ">Hidden Goals(not explained)</span>
+- Learn how to use books and the Internet to collect information.
+- Learn how to present experimental results in meetings.
+
+
+### Day 2: Searching Information
+### Day 3: Programming
+### Any day: Prepare for presentation 
+
+
+
+
+
+
+ 
+
 ## Goals
 
 1. Learn how to use an FTIR, including the basic functions and how to measure a spectrum
@@ -7,6 +50,7 @@
 3. Measure the distance between two mirrors
 4. Measure the refractive index of a material inserted between the mirrors
 5. Measure the Rabi splitting in a neat liquid and in a diluted liquid
+
 
 
 ## Part A: Measure fringes
