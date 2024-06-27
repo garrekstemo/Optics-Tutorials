@@ -15,10 +15,10 @@ Therefore, the following part shows the step-by-step guide to do this lesson.
 ## Step-by-step guide
 ### Day 1: Experiment
 #### 1-1. Explain to the students how you want the lesson to be done.
-- The students and the lecturer need to ask to each other as many questions as possible.\
+- The students and the lecturer need to ask each other as many questions as possible.\
 (**Reason**: To get used to ask and to be asked questions about research.)
 
-- Only the basic will be covered in this lesson. The students need to find more accurate and reliable information on their own and avoid using the information given in this lesson directly to research.\
+- Only the basics will be covered in this lesson. The students need to find more accurate and reliable information on their own and avoid using the information given in this lesson directly to research.\
 (**Reason**: Oversimplification is used in some parts of this lecture.)
 
 #### 1-2. Explain the goals of this lesson.
@@ -43,14 +43,14 @@ Therefore, the following part shows the step-by-step guide to do this lesson.
 #### 1-4. Explain about cavity modes.
 - Explain what a Fabry-Pérot cavity consists of.
 - Demonstrate what happenes when light is irradiated from one side using the FTIR and a gold cavity.
-- Explain what is happening inside the cavity on wavenubers that cavity modes appear using [this simulation](https://ccahilla.github.io/fabryperot.html).
+- Explain what is happening inside the cavity at wavenumbers where cavity modes appear using [this simulation](https://ccahilla.github.io/fabryperot.html).
 - Explain about standing waves.
 - Explain what happens when light is not irradiating to the cavity any more.\
 (Explain about the vacuum field)
 - Let the students change the caivty length and demonstrate how it can change the spectrum.
 - Explain how the refractive index can also change the spectrum.
 
-#### 1-5. Exlpain about the activity they are going to do.
+#### 1-5. Exlpain the activity they are going to do.
 - **Activity**: Deduce the refractive index of 2 unknown molecules using the cavity.\
 (Molecules: Methanol with n ≃ 1.32, Toluene with n ≃ 1.47)
 - **Steps**:
@@ -119,7 +119,7 @@ Check the following source if they find it hard to obtain the information.
 #### 3-5. Plot experimental data.
 - Download CSV and DataFrames.
 - Load packages.
-- Explain about paths.
+- Explain paths.
 - Load experimental data and make arrays based on it.
 - Plot experimental data.
 - Save plot.
