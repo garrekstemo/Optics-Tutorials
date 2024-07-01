@@ -30,7 +30,7 @@ Explain that the Fabry-Pérot cavity is a resonant cavity that can be used to en
 The Fabry-Pérot cavity is made of two mirrors separated by a spacer.
 The cavity modes are the standing waves that can exist in the cavity.
 The cavity modes are determined by the cavity length and the refractive index of the intracavity material.
-Feel free to use simulations, such Transfer Matrix Method, to demonstrate how the cavity modes change with cavity length and refractive index.
+Feel free to use simulations, such as the Transfer Matrix Method, to demonstrate how the cavity modes change with cavity length and refractive index.
 [Here is an online simulation](https://ccahilla.github.io/fabryperot.html) demonstrating the electric field.
 Here, prepare a gold cavity to demonstrate the cavity modes with the FTIR.
 A length-adjustable cavity can be used to demonstrate how the cavity modes change with cavity length.
