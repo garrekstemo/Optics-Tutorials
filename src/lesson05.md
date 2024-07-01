@@ -67,8 +67,7 @@ The analysis should be done independently by the students, but the instructor sh
 
 
 ## Quiz Questions
-- When Abs = 2, what is the ratio of the intensity of the incident light and transmitted light? 
-(Ans: 1%)
+- When Abs = 2, what is the ratio of the intensity of the incident light and transmitted light? (Ans: 1%)
 - What are the sources of error?
 - What can be done to reduce the error in the refractive index measurement?
 - Why does the transmittance of cavity modes of the gold cavity increase with wavenumber?
