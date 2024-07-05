@@ -3,7 +3,7 @@
 [Nara Institute of Science and Technology](http://www.naist.jp/en/) \
 [Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
 Date Created: June 12, 2021 \
-Updated: June 11, 2024
+Updated: July 5, 2024
 
 ## Table of Contents
 
