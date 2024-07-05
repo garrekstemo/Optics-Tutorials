@@ -23,9 +23,9 @@ $$ \mathbf{P}^{(2)}(t) = \epsilon_0\chi ^{(2)}\mathbf{E}^2(t).$$
 To see what will happen if we use a second-order nonlinear crystal, let us consider a simple experimental setup shown in the given figure below.
 
 ![](../images/nonlinear_optics_schematic.png)
-*Two beams at different frequencies ($\omega_1$ and $\omega_2$) are
+*Two beams at different frequencies* ($\omega_1$ *and* $\omega_2$) *are
 incident to a nonlinear crystal. Under appropriate configuration, a
-third beam at a different frequency, $\omega_3$, can be
+third beam at a different frequency,* $\omega_3$, *can be
 generated.*
 
 Here, the two beams apply a total electric field strength of
