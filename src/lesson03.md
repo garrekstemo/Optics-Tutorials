@@ -2,6 +2,8 @@
 
 Use the 800 nm pulsed laser tutorial setup to introduce students to the new optical components and instruments.
 
+A [handout](lesson03_handout.md) for this lesson is in a separate document.
+
 ## Goals
 1. Review basic optical components
 2. Use new optical components
