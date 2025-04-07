@@ -62,7 +62,7 @@ Worse, future students won't be able to understand what they did at all!
 Finally, most students will not become professional scientists, but they will likely use data analysis in their future careers.
 Learning good programming practices will help them whereever they end up.
 
-The reason I choose Julia is because is is a high-level language that is easy to learn and has a lot of built-in functions for data analysis.
+The reason I choose Julia is because it is a high-level language that is easy to learn and has a lot of built-in functions for data analysis.
 It is better than Matlab because it is free and open source, and it is also much faster.
 I prefer Julia to Python because it is faster and has a more consistent syntax.
 The plotting libraries are also much more intuitive and straightforward.
