@@ -1,4 +1,4 @@
-# Lesson 2: Using an oscilloscope
+# Appendix B: Using an oscilloscope
 
 This lesson should be completed before measuring the SHG signal in the nonlinear optics lesson.
 Make sure to give students the resources linked below so they can learn on their own.

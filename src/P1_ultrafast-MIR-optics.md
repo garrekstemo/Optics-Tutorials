@@ -1,4 +1,4 @@
-# Lesson 4: Find the Pump-Probe Overlap in a MIR Optics Setup
+# Project 1: Find the Pump-Probe Overlap in a MIR Optics Setup
 
 ## Goals
 
