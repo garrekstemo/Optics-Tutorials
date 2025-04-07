@@ -7,11 +7,10 @@ Updated: July 5, 2024
 
 ## Table of Contents
 
-Lesson 1: Introduction to Optical Elements and Alignment \
-Lesson 2: Using an Oscilloscope \
+Lesson 1: Basic Optical Elements and Beam Alignment \
+Lesson 2: Introduction to Programming and Data Analysis \
 Lesson 3: Introduction to Pulsed Laser Alignment and Nonlinear Optics \
-Lesson 4: Finding the Pump-Probe Overlap in a MIR Optical Setup \
-Lesson 5: Etalon fringes and FTIR
+Lesson 4: FTIR Spectroscopy and Fabry-Pérot Cavities \
 
 ## Introduction
 
