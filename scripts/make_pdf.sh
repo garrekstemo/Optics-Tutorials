@@ -6,9 +6,9 @@ files=(
     ../src/lesson-2_FTIR-spectroscopy.md
     ../src/lesson-3_intro-to-pulsed-lasers.md
     ../src/lesson-3_handout.md
-    ../src/P1_ultrafast-MIR-optics.md
-    ../src/Appendix-A_video-tutorials.md
-    ../src/Appendix-B_oscilloscopes.md
+    ../src/project-1_ultrafast-MIR-optics.md
+    ../src/appendix-A_video-tutorials.md
+    ../src/appendix-B_oscilloscopes.md
 )
 
 pandoc "${files[@]}" -f commonmark --pdf-engine=lualatex \
