@@ -71,3 +71,18 @@ They are also quite powerful and you can easily make interactive figures.
 After they learn Julia, it really does not matter to me what language students use after that.
 Python is a great language and is used in many industries.
 Julia's syntax is quite similar to Matlab and Python, so it is easy to switch to those languages if needed.
+
+## Timeline
+Split into two groups. Everyone can do Part A together, but then split up the groups in Part B. Half will do FTIR spectroscopy first, the other half will start with nonlinear optics.
+
+### Part A
+Basic optics (1 week)
+Intro to programming and data analysis (2 weeks)
+
+## Part B
+FTIR spectroscopy (2 weeks)
+
+Nonlinear optics (2 weeks)
+
+## Part C
+Project-specific experiments (2 weeks)
