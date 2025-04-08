@@ -3,14 +3,15 @@
 [Nara Institute of Science and Technology](http://www.naist.jp/en/) \
 [Quantum Photo-Science Laboratory](https://qps-lab-naist-en.labby.jp) \
 Date Created: June 12, 2021 \
-Updated: July 5, 2024
+Updated: April 8, 2025
 
 ## Table of Contents
 
 Lesson 1: Basic Optical Elements and Beam Alignment \
 Lesson 2: Introduction to Programming and Data Analysis \
-Lesson 3: Introduction to Pulsed Laser Alignment and Nonlinear Optics \
-Lesson 4: FTIR Spectroscopy and Fabry-Pérot Cavities \
+Lesson 3: FTIR Spectroscopy and Fabry-Pérot Cavities \
+Lesson 4: Introduction to Pulsed Laser Alignment and Nonlinear Optics
+
 
 ## Introduction
 
