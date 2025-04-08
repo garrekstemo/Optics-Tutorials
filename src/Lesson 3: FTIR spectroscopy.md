@@ -1,4 +1,4 @@
-# Lesson 2: Fourier-Transform Infrared Spectroscopy and Fabry-Pérot Cavities
+# Lesson 3: Fourier-Transform Infrared Spectroscopy and Fabry-Pérot Cavities
 
 This lesson introduces students to molecular vibrations, Fabry-Pérot cavities, and the basics of Fourier-transform infrared spectroscopy (FTIR). The lesson is divided into three parts. The first part covers Fabry-Pérot cavities and molecular vibrations. The second part is an experiment to measure the refractive index of two unknown molecules using the FTIR. The third part is a programming tutorial to analyze the experimental data and plot the results.
 

@@ -1,4 +1,4 @@
-# Lesson 3: Introduction to Pulsed Laser Alignment and Nonlinear Optics
+# Lesson 4: Introduction to Pulsed Laser Alignment and Nonlinear Optics
 
 Use the 800 nm pulsed laser tutorial setup to introduce students to the new optical components and instruments.
 
