@@ -2,8 +2,6 @@
 
 filename="Optics Tutorials.pdf"
 
-filename="Optics Tutorials.pdf"
-
 files=(
     "../src/Introduction.md"
     "../src/Lesson 1: Basic optics.md"
@@ -22,5 +20,4 @@ pandoc "${files[@]}" -f commonmark --pdf-engine=lualatex \
     --toc \
     -o ../pdf/$filename
 cd ../pdf
-echo "PDF created at $PWD/$filename"
 echo "PDF created at $PWD/$filename"

@@ -1,4 +1,4 @@
-# Lesson 3: Handout
+# Lesson 4: Handout
 
 ## 1. Introduction
 
