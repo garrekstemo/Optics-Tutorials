@@ -1,20 +1,23 @@
 #!/bin/zsh
 
+filename="Optics Tutorials.pdf"
+
 files=(
-    ../src/intro.md
-    ../src/lesson-1_basic-optics.md
-    ../src/lesson-2_FTIR-spectroscopy.md
-    ../src/lesson-3_intro-to-pulsed-lasers.md
-    ../src/lesson-3_handout.md
-    ../src/project-1_ultrafast-MIR-optics.md
-    ../src/appendix-A_video-tutorials.md
-    ../src/appendix-B_oscilloscopes.md
+    "../src/Introduction.md"
+    "../src/Lesson 1: Basic optics.md"
+    "../src/Lesson 2: Introduction to programming.md"
+    "../src/Lesson 3: FTIR spectroscopy.md"
+    "../src/Lesson 4: Introduction to pulsed lasers.md"
+    "../src/Handout for Lesson 4.md"
+    "../src/Project 1: Ultrafast MIR optics.md"
+    "../src/Appendix A: Video tutorials.md"
+    "../src/Appendix B: Oscilloscopes.md"
 )
 
 pandoc "${files[@]}" -f commonmark --pdf-engine=lualatex \
     -V colorlinks=true \
     -V mainfont="Helvetica" \
     --toc \
-    -o ../pdf/optics-tutorials.pdf
+    -o ../pdf/$filename
 cd ../pdf
-echo "PDF created at $PWD/optics-tutorials.pdf"
+echo "PDF created at $PWD/$filename"
