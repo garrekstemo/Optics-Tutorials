@@ -14,9 +14,35 @@ files=(
     "../src/Appendix B: Oscilloscopes.md"
 )
 
-pandoc "${files[@]}" -f commonmark --pdf-engine=lualatex \
+num_files=${#files[@]}
+
+header_file="$(mktemp)"
+cat > "$header_file" << EOF
+\usepackage{luatexja}
+\usepackage{luatexja-fontspec}
+EOF
+
+i=1
+newpage="../src/newpage.md"
+tempfile="$(mktemp).md"
+
+for file in "${files[@]}"; do
+    cat "$file" >> "$tempfile"
+    if [[ $i -lt $num_files ]]; then
+        cat "$newpage" >> "$tempfile"
+    fi
+    ((i++))
+done
+
+
+pandoc "$tempfile" -f commonmark+tex_math_dollars --pdf-engine=lualatex \
+    -V geometry:margin=1in \
+    -V mainfont="Libertinus Serif" \
+    -V mainjfont="Noto Serif JP" \
+    -V mathfont="Libertinus Math" \
+    -V monofont="DejaVu Sans Mono" \
+    -H "$header_file" \
     -V colorlinks=true \
-    -V mainfont="Helvetica" \
     --toc \
     -o ../pdf/$filename
 cd ../pdf
