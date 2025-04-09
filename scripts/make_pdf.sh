@@ -22,20 +22,7 @@ cat > "$header_file" << EOF
 \usepackage{luatexja-fontspec}
 EOF
 
-i=1
-newpage="../src/newpage.md"
-tempfile="$(mktemp).md"
-
-for file in "${files[@]}"; do
-    cat "$file" >> "$tempfile"
-    if [[ $i -lt $num_files ]]; then
-        cat "$newpage" >> "$tempfile"
-    fi
-    ((i++))
-done
-
-
-pandoc "$tempfile" -f commonmark+tex_math_dollars --pdf-engine=lualatex \
+pandoc "${files[@]}" -f commonmark+tex_math_dollars --pdf-engine=lualatex \
     -V geometry:margin=1in \
     -V mainfont="Libertinus Serif" \
     -V mainjfont="Noto Serif JP" \
