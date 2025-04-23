@@ -1,6 +1,15 @@
-# Appendix A: A list of excellent video tutorials on the web
+# Appendix A: Resources
 
-Thorlabs
+## Online Resources
+
+- [RP Photonics](https://www.rp-photonics.com) has an [Optics Encyclopedia](https://www.rp-photonics.com/encyclopedia.html) that covers many topics in optics.
+- [refractiveindex.info](https://refractiveindex.info/) is a database for material refractive indices.
+- The [Edmund Optics Knowledge Center](https://www.edmundoptics.com/knowledge-center/) has a lot of resources for optics and optomechanics. For example: [Basics of ultrafast lasers](https://www.edmundoptics.com/knowledge-center/application-notes/optics/basics-of-ultrafast-lasers/) and a [laser spot size calculator](https://www.edmundoptics.com/knowledge-center/tech-tools/laser-spot-size/).
+- [ThorLabs](https://www.thorlabs.com/) has excellent product guides for optics and optomechanics. For example: [Off-axis parabolic mirrors](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=5447) and [Fabry-Pérot interferometers](https://www.thorlabs.com/newgrouppage9.cfm?objectgroup_id=9021).
+- [Newport](https://www.newport.com) also has resources and product guides.
+
+
+## ThorLabs Video Tutorials
 - [Mounting Your Optomech: Bases, Post Holders, and Posts](https://youtu.be/4xZmGyMsQNo)
 - [How to align a laser](https://youtu.be/qzxILY6nOmA)
 - [Distinguish the Fast and Slow Axes of a Quarter-Wave Plate](https://youtu.be/XQwiPm5OtSk)
