@@ -10,7 +10,7 @@ files=(
     "../src/Lesson 4: Introduction to pulsed lasers.md"
     "../src/Handout for Lesson 4.md"
     "../src/Project 1: Ultrafast MIR optics.md"
-    "../src/Appendix A: Video tutorials.md"
+    "../src/Appendix A: Resources.md"
     "../src/Appendix B: Oscilloscopes.md"
 )
 
